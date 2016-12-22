@@ -1,0 +1,2 @@
+add_executable(hdf5writerreader main.cpp)
+target_link_libraries(hdf5writerreader hdf5lib)
